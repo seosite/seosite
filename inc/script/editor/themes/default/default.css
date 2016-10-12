@@ -1,0 +1,32 @@
+.markbar
+{
+	overflow: hidden;
+}
+
+.markbar a
+{
+	display: block;
+	float: left;
+	width: 30px;
+	height: 24px;
+	margin: 0 3px 3px 0;
+	background: #fff;
+	text-indent: 8px;
+	border: #dddddd solid 1px;
+	border-radius: 6px;
+	color: #000;
+	font-size: 14px;
+}
+
+.markbar a:hover
+{
+	background: #73D90C;
+	color: #FFF;
+}
+
+
+@media only screen and (max-width:800px) {
+.markbar a.em, .markbar a.h3, .markbar a.ol, .markbar a.code, .markbar a.youkuvideo,  .markbar a.xiami {
+display: none;
+}
+}
