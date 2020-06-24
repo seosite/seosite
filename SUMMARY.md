@@ -10,6 +10,7 @@
 ## 技术
 
 * [开发语言](ji-shu/kai-fa-yu-yan/README.md)
+  * [前端相关](ji-shu/kai-fa-yu-yan/qian-duan-xiang-guan.md)
   * [GoLand](ji-shu/kai-fa-yu-yan/goland/README.md)
     * [学习](ji-shu/kai-fa-yu-yan/goland/xue-xi.md)
     * [面试](ji-shu/kai-fa-yu-yan/goland/mian-shi.md)
@@ -22,7 +23,8 @@
     * [zabbix](ji-shu/yun-wei/jian-kong/zabbix.md)
     * [prometheus](ji-shu/yun-wei/jian-kong/prometheus.md)
     * [brogmonitor](ji-shu/yun-wei/jian-kong/brogmonitor.md)
-* [大数据](ji-shu/da-shu-ju.md)
+* [大数据](ji-shu/da-shu-ju/README.md)
+  * [hadoop](ji-shu/da-shu-ju/hadoop.md)
 * [数据库](ji-shu/shu-ju-ku/README.md)
   * [MySQL](ji-shu/shu-ju-ku/mysql.md)
   * [Redis](ji-shu/shu-ju-ku/redis.md)
@@ -30,4 +32,12 @@
   * [ElasticSearch](ji-shu/shu-ju-ku/elasticsearch.md)
   * [TSDB](ji-shu/shu-ju-ku/tsdb.md)
   * [MongoDB](ji-shu/shu-ju-ku/mongodb.md)
+* [容器化](ji-shu/rong-qi-hua/README.md)
+  * [k8s](ji-shu/rong-qi-hua/k8s.md)
+  * [docker](ji-shu/rong-qi-hua/docker.md)
+  * [微服务](ji-shu/rong-qi-hua/wei-fu-wu.md)
+  * [konga](ji-shu/rong-qi-hua/konga.md)
+  * [wayne](ji-shu/rong-qi-hua/wayne.md)
+  * [rancher](ji-shu/rong-qi-hua/rancher.md)
+* [工具](ji-shu/gong-ju.md)
 
